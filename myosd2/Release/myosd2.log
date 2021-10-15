@@ -1,0 +1,7 @@
+﻿  myosd2.cpp
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+C:\Users\Dell\Desktop\myosd2\myosd2\myosd2.cpp(179): warning C4715: 'createOSD': not all control paths return a value
+  All 53 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  myosd2.vcxproj -> C:\Users\Dell\Desktop\myosd2\Release\myosd2.exe
