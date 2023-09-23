@@ -6,3 +6,5 @@
 Windows OSD On Screen Display implementation in C++ not C#
 
 Star and Fork !!
+
+https://www.buymeacoffee.com/aaah
